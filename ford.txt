@@ -1,0 +1,11 @@
+5
+18455
+5 2 3 2 2
+Ford Focus
+Color Liquid-Grey:0 Infra-Red:0 French-Blue:0 Pitch-Black:0 Sangria-Red:0
+Transmission Automatic:0 Manual:-815
+Brakes/Traction Standard:0 ABS:400 ABS-Advanced:1625
+Airbags No:0 Yes:350
+MoonRoof No:0 Yes:595
+
+
